@@ -6,8 +6,8 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Web Developer", "Student"],
-    typeSpeed: 250,
+    strings: ["Web Developer"],
+    typeSpeed: 50,
     loop: true,
     showCursor: false,
   });
